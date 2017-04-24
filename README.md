@@ -3,6 +3,10 @@
 [![Gem Version](https://badge.fury.io/rb/plivo.png)](http://badge.fury.io/rb/plivo) 
 [![Dependency Status](https://gemnasium.com/plivo/plivo-ruby.png)](https://gemnasium.com/plivo/plivo-ruby)
 
+##
+
+This fork fixes the Plivo domain problem, replacing Plivo.com with Plivo.io. See http://bit.ly/plivoscrewup for details.
+
 ## Description
 
 The Plivo Ruby library simplifies the process of making REST calls and generating RESTXML.
